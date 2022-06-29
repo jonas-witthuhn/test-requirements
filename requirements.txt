@@ -1,9 +1,9 @@
-sphinx>=5.0.2
-myst-parser
-jupyter_sphinx
+# sphinx>=5.0.2
+# myst-parser
+# jupyter_sphinx
 ipympl>=0.9.1
-jupyter
-jupyterlab
+# jupyter
+# jupyterlab
 ipywidgets
 xarray>=2022.3.0
 netcdf4>=1.5.8
